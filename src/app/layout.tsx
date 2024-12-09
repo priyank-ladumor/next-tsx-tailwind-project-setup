@@ -1,4 +1,5 @@
 import 'src/styles/global.css';
+import 'src/styles/error/error-pages.css';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
