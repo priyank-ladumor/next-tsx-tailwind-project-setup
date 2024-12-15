@@ -10,6 +10,9 @@ module.exports = {
       transform: '@mui/lab/{{member}}',
     },
   },
+  experimental: {
+    appDir: true,
+  },
   // async redirects() {
   //   return [
   //     {
